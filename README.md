@@ -2,13 +2,6 @@
 # 👋 Hi, I'm Abhishek!  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mygithubid&style=flat-square&color=blue)  
-![GitHub PRs](https://img.shields.io/badge/PRs-Open%20%7C%20Merged-0366d6?style=flat-square&logo=github&logoColor=white)
-![GitHub Commits](https://img.shields.io/badge/Commits-Daily%20Tracker-brightgreen?style=flat-square&logo=github)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mygithubid&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=mygithubid&theme=radical)  
 
 ---
 
@@ -32,6 +25,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mygithubid&layout=compact&theme=radical)
 
 
 
